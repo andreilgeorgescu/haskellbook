@@ -1,6 +1,13 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
-    "ghcr.io/devcontainers-contrib/features/haskell:2": {}
-  }
+	"image": "mcr.microsoft.com/devcontainers/base:1-ubuntu-22.04",
+	"features": {
+		"ghcr.io/devcontainers-contrib/features/haskell:2": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"haskell.haskell"
+			]
+		}
+	}
 }
