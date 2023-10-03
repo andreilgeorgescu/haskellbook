@@ -8,10 +8,7 @@
 		"vscode": {
 			"extensions": [
 				"haskell.haskell"
-			],
-			"settings": {
-				"terminal.integrated.defaultProfile.linux": "zsh"
-			}
+			]
 		}
 	}
 }
