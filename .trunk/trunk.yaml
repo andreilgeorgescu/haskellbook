@@ -16,7 +16,6 @@ runtimes:
     - node@18.12.1
     - python@3.10.8
 lint:
-  hold_the_line_mode: word
   enabled:
     - actionlint@1.6.26
     - checkov@2.5.0

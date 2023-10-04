@@ -12,6 +12,7 @@
         "github.vscode-github-actions",
         "GitHub.vscode-pull-request-github",
         "haskell.haskell",
+        "redhat.vscode-yaml",
         "streetsidesoftware.code-spell-checker",
         "Tyriar.lorem-ipsum"
       ]

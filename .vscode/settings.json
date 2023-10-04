@@ -15,5 +15,7 @@
     "git-commit": false
   },
   "emojisense.unicodeCompletionsEnabled": false,
-  "trunk.trunkGrayOutNonBlockingIssues": false
+  "yaml.format.enable": false,
+  "yaml.validate": false,
+  "yaml.extension.recommendations": false
 }
