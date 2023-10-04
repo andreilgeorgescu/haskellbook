@@ -9,7 +9,8 @@
     "vscode": {
       "extensions": ["haskell.haskell"],
       "settings": {
-        "trunk.autoInit": false
+        "trunk.autoInit": false,
+        "files.autoSave": "off"
       }
     }
   },
