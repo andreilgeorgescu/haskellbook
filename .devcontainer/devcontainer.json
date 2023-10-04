@@ -1,4 +1,3 @@
-// trunk-ignore-all(cspell)
 {
   "image": "mcr.microsoft.com/devcontainers/base:1-ubuntu-22.04",
   "features": {
@@ -7,7 +6,15 @@
   },
   "customizations": {
     "vscode": {
-      "extensions": ["haskell.haskell", "streetsidesoftware.code-spell-checker", "bierner.github-markdown-preview", "bierner.emojisense", "Tyriar.lorem-ipsum"]
+      "extensions": [
+        "bierner.emojisense",
+        "bierner.github-markdown-preview",
+        "github.vscode-github-actions",
+        "GitHub.vscode-pull-request-github",
+        "haskell.haskell",
+        "streetsidesoftware.code-spell-checker",
+        "Tyriar.lorem-ipsum"
+      ]
     }
   },
   "updateContentCommand": "trunk install"
