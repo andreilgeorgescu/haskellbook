@@ -1,0 +1,4 @@
+// cSpell:disable
+{
+    "terminal.integrated.defaultProfile.linux": "zsh"
+}
