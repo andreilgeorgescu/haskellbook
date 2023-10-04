@@ -1,4 +1,3 @@
-// trunk-ignore-all(cspell)
 {
   "terminal.integrated.defaultProfile.linux": "zsh",
   "editor.formatOnSave": true,
@@ -8,5 +7,13 @@
   "trunk.inlineDecorators": false,
   "[haskell]": {
     "editor.defaultFormatter": "haskell.haskell"
-  }
+  },
+  "emojisense.languages": {
+    "markdown": true,
+    "plaintext": false,
+    "scminput": false,
+    "git-commit": false
+  },
+  "emojisense.unicodeCompletionsEnabled": false,
+  "trunk.trunkGrayOutNonBlockingIssues": false
 }
