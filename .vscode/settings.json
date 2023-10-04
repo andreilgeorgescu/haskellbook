@@ -1,4 +1,8 @@
-// cSpell:disable
+// trunk-ignore-all(cspell)
 {
-    "terminal.integrated.defaultProfile.linux": "zsh"
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "trunk.io",
+  "trunk.autoInit": false,
+  "files.autoSave": "off"
 }

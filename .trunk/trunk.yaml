@@ -1,5 +1,4 @@
-# This file controls the behavior of Trunk: https://docs.trunk.io/cli
-# To learn more about the format of this file, see https://docs.trunk.io/reference/trunk-yaml
+# trunk-ignore-all(cspell)
 version: 0.1
 cli:
   version: 1.16.2
@@ -17,10 +16,19 @@ runtimes:
     - node@18.12.1
     - python@3.10.8
 lint:
+  hold_the_line_mode: word
   enabled:
+    - actionlint@1.6.26
     - checkov@2.5.0
+    - cspell@7.3.7
     - git-diff-check
+    - gitleaks@8.18.0
+    - hadolint@2.12.0
+    - markdownlint@0.37.0
     - prettier@3.0.3
+    - shellcheck@0.9.0
+    - shfmt@3.6.0
+    - taplo@0.8.1
     - trivy@0.45.1
     - trufflehog@3.59.0
     - yamllint@1.32.0

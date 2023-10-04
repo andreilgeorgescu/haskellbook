@@ -1,4 +1,4 @@
-// cSpell:disable
+// trunk-ignore-all(cspell)
 {
   "image": "mcr.microsoft.com/devcontainers/base:1-ubuntu-22.04",
   "features": {
@@ -7,11 +7,7 @@
   },
   "customizations": {
     "vscode": {
-      "extensions": ["haskell.haskell"],
-      "settings": {
-        "trunk.autoInit": false,
-        "files.autoSave": "off"
-      }
+      "extensions": ["haskell.haskell"]
     }
   },
   "updateContentCommand": "trunk install"
