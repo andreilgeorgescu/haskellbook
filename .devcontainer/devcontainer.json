@@ -1,16 +1,14 @@
 // cSpell:disable
 {
-	"image": "mcr.microsoft.com/devcontainers/base:1-ubuntu-22.04",
-	"features": {
-		"ghcr.io/devcontainers-contrib/features/haskell:2": {},
-		"ghcr.io/trunk-io/devcontainer-feature/trunk:1": {}
-	},
-	"customizations": {
-		"vscode": {
-			"extensions": [
-				"haskell.haskell",
-				"Trunk.io"
-			]
-		}
-	}
+  "image": "mcr.microsoft.com/devcontainers/base:1-ubuntu-22.04",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/haskell:2": {},
+    "ghcr.io/trunk-io/devcontainer-feature/trunk:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": ["haskell.haskell", "Trunk.io"],
+      "settings": { "trunk.autoInit": false }
+    }
+  }
 }
