@@ -7,7 +7,7 @@
   },
   "customizations": {
     "vscode": {
-      "extensions": ["haskell.haskell", "streetsidesoftware.code-spell-checker"]
+      "extensions": ["haskell.haskell", "streetsidesoftware.code-spell-checker", "bierner.github-markdown-preview", "bierner.emojisense", "Tyriar.lorem-ipsum"]
     }
   },
   "updateContentCommand": "trunk install"
