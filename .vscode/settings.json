@@ -4,5 +4,9 @@
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "trunk.io",
   "trunk.autoInit": false,
-  "files.autoSave": "off"
+  "files.autoSave": "off",
+  "trunk.inlineDecorators": false,
+  "[haskell]": {
+    "editor.defaultFormatter": "haskell.haskell"
+  }
 }

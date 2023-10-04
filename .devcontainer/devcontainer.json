@@ -7,7 +7,7 @@
   },
   "customizations": {
     "vscode": {
-      "extensions": ["haskell.haskell"]
+      "extensions": ["haskell.haskell", "streetsidesoftware.code-spell-checker"]
     }
   },
   "updateContentCommand": "trunk install"
