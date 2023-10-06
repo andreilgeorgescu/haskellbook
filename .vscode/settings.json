@@ -1,4 +1,12 @@
 {
+  "cSpell.checkOnlyEnabledFileTypes": false,
+  "cSpell.files": ["src/", "test/", "readme.md"],
+  "cSpell.ignorePaths": [],
+  "cSpell.language": "en-US",
+  "cSpell.noConfigSearch": true,
+  "cSpell.showAutocompleteSuggestions": true,
+  "cSpell.suggestionMenuType": "quickFix",
+  "cSpell.useGitignore": false,
   "terminal.integrated.defaultProfile.linux": "zsh",
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "trunk.io",
@@ -17,5 +25,6 @@
   "emojisense.unicodeCompletionsEnabled": false,
   "yaml.format.enable": false,
   "yaml.validate": false,
-  "yaml.extension.recommendations": false
+  "yaml.extension.recommendations": false,
+  "cSpell.diagnosticLevel": "Error"
 }

@@ -17,6 +17,8 @@ runtimes:
     - python@3.10.8
 lint:
   enabled:
+    - codespell@2.2.6
+    - cspell@7.3.7
     - actionlint@1.6.26
     - checkov@2.5.0
     - git-diff-check
