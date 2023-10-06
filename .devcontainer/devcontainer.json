@@ -9,11 +9,14 @@
       "extensions": [
         "bierner.emojisense",
         "bierner.github-markdown-preview",
+        "EditorConfig.EditorConfig",
         "github.vscode-github-actions",
         "GitHub.vscode-pull-request-github",
         "haskell.haskell",
+        "ms-vsliveshare.vsliveshare",
         "redhat.vscode-yaml",
         "streetsidesoftware.code-spell-checker",
+        "tamasfe.even-better-toml",
         "Tyriar.lorem-ipsum"
       ]
     }
