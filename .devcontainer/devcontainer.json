@@ -17,7 +17,8 @@
         "redhat.vscode-yaml",
         "remcohaszing.schemastore",
         "tamasfe.even-better-toml",
-        "Tyriar.lorem-ipsum"
+        "Tyriar.lorem-ipsum",
+        "Tyriar.sort-lines"
       ]
     }
   },
