@@ -11,3 +11,11 @@
 ### Chapter exercises
 
 Solutions are in the book.
+
+## Chapter 2
+
+### Exercises: Comprehension check
+
+1. No solution required.
+1. `areaOfCircle r = 3.14 * (r * r)`
+1. `areaOfCircle r = pi * (r * r)`
