@@ -19,3 +19,9 @@ Solutions are in the book.
 1. No solution required.
 1. `areaOfCircle r = 3.14 * (r * r)`
 1. `areaOfCircle r = pi * (r * r)`
+
+### Exercises: Parentheses and association
+
+1. Yes
+1. No
+1. Yes
