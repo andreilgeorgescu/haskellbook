@@ -10,10 +10,4 @@
 
 ### Chapter exercises
 
-#### Combinators
-
-1. Yes
-1. No
-1. Yes
-1. Yes
-1. No
+Solutions are in the book.
